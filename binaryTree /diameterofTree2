@@ -1,3 +1,4 @@
+//Approach - 2 ---TC=O(n)
 static class pair{
     int ht;
     int dia;
