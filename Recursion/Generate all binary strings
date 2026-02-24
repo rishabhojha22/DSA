@@ -1,0 +1,42 @@
+class Solution {
+    public void helper(ArrayList<String>ans,int n,StringBuilder sb){
+        if(n==0){
+            ans.add(sb.toString());
+            return;
+        }
+        
+        helper(ans,n-1,sb.append('0'));
+        sb.deleteCharAt(sb.length()-1);//backtracking
+        
+        helper(ans,n-1,sb.append('1'));
+        sb.deleteCharAt(sb.length()-1);//backtracking
+    }
+    public ArrayList<String> binstr(int n) {
+        // code here
+        ArrayList<String> ans=new ArrayList<>();
+        helper(ans,n,new StringBuilder());
+        return ans;
+    }
+}
+// backtrack here because strings are pass by reference
+
+
+
+// code 2
+class Solution {
+    public void helper(ArrayList<String>ans,int n,String sb){
+        if(n==0){
+            ans.add(sb);
+            return;
+        }
+        
+        helper(ans,n-1,sb+'0');
+        helper(ans,n-1,sb+'1');
+    }
+    public ArrayList<String> binstr(int n) {
+        // code here
+        ArrayList<String> ans=new ArrayList<>();
+        helper(ans,n,"");
+        return ans;
+    }
+}
