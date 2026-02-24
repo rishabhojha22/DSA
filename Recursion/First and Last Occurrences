@@ -1,0 +1,29 @@
+class Solution {
+    void helper(int arr[], int x, ArrayList<Integer>ans,int i){
+        if(i==arr.length)return ;
+        
+        if(arr[i]==x && ans.size()==0){
+            ans.add(i);
+            ans.add(i);
+        }
+        else if(arr[i]==x && ans.size()==2){
+            ans.remove(1);
+            ans.add(i);
+        }
+        
+        helper(arr,x,ans,i+1);
+        return ; 
+    }
+    
+    ArrayList<Integer> find(int arr[], int x) {
+        // code here
+        ArrayList<Integer>ans=new ArrayList<>();
+        helper(arr,x,ans,0);
+        
+        if(ans.size()==0){
+            ans.add(-1);
+            ans.add(-1);
+        }
+        return ans;
+    }
+}
