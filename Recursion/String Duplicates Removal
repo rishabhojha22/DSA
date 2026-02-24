@@ -1,0 +1,40 @@
+class Solution {
+    String removeDuplicates(String s) {
+        Set<Character> st=new HashSet<>();
+        StringBuilder ans=new StringBuilder();
+        
+        for(char c:s.toCharArray()){
+            if(!st.contains(c)){
+                ans.append(c);
+                st.add(c);
+            }
+        }
+        
+        return ans.toString();
+    }
+}
+
+
+
+
+// recursion
+class Solution {
+    void helper(String s , StringBuilder ans, Set<Character> st, int i){
+        if(i==s.length())return ; 
+        
+        if(!st.contains(s.charAt(i))){
+            st.add(s.charAt(i));
+            helper(s,ans.append(s.charAt(i)),st,i+1);
+        }
+        else{
+            helper(s,ans,st,i+1);
+        }
+    }
+    String removeDuplicates(String s) {
+        Set<Character> st=new HashSet<>();
+        StringBuilder ans=new StringBuilder();
+        helper(s,ans,st,0);
+        
+        return ans.toString();
+    }
+}
