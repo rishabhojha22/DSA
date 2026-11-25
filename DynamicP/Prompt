@@ -1,0 +1,639 @@
+[25/11, 1:39 am] rishabhojha880: I have reviewed all the screenshots. Your selected research topic is **Topic Option 2: Algorithmic Reflexivity Reallocation and Cognitive Bias in Agentic AI Decision-Making.**
+
+The recommended research title from your screenshots is:
+
+**"The Cognitive Cost of Autonomy: Quantifying Automation Bias and Trust Calibration in Multi-Agentic Workflows."**
+
+This is a promising research direction because it combines three important research areas:
+
+1. **Agentic AI:** How autonomous AI agents make decisions and perform multistep tasks.
+2. **Automation Bias:** How humans become overly dependent on AI recommendations.
+3. **Cognitive Offloading and Trust Calibration:** Whether increasing AI autonomy reduces human critical thinking, error detection, and independent decision-making.
+
+I will give you a master prompt for Gemini designed to make it act as a research team: literature researcher, research-methodology expert, statistician, AI/ML researcher, and IEEE academic editor.
+
+One important clarification: no prompt can guarantee that a paper will be undetectable by AI detectors or plagiarism checkers. The better objective is genuinely original research, independently verified references, authentic results, correct citations, and academically defensible writing.
+
+## **1. Master prompt for Gemini**
+
+Copy the entire prompt below into Gemini. Ideally, use Gemini with Deep Research enabled.
+
+# MASTER RESEARCH PROMPT: COMPLETE IEEE-QUALITY RESEARCH PAPER
+
+Act as a multidisciplinary academic research team consisting of:
+
+- A senior IEEE researcher and journal reviewer.
+- A PhD-level researcher specializing in Artificial Intelligence and Agentic AI.
+- A cognitive psychology and human-computer interaction researcher.
+- A statistical analyst specializing in experimental design and hypothesis testing.
+- An AI/ML engineer specializing in autonomous agents and human-AI collaboration.
+- An academic editor experienced in preparing manuscripts for reputed IEEE journals.
+
+Your responsibility is to help me develop a comprehensive, technically rigorous, original research paper based on the following topic.
+
+## 1. RESEARCH TITLE
+
+**The Cognitive Cost of Autonomy: Quantifying Automation Bias and Trust Calibration in Multi-Agentic Workflows**
+
+Alternative working title:
+
+Algorithmic Reflexivity Reallocation and Cognitive Bias in Agentic AI Decision-Making.
+
+First, critically evaluate both titles. Determine whether the study genuinely investigates multi-agent systems or general autonomous AI systems. Do not use terminology that overstates the actual research.
+
+## 2. RESEARCH DOMAIN
+
+The research focuses on the psychological and cognitive consequences of increasing autonomy in AI systems.
+
+The central research problem is:
+
+As AI systems transition from conventional generative assistants to autonomous agents capable of planning, executing multistep tasks, and making decisions with limited human intervention, humans may increasingly delegate their cognitive responsibilities to AI.
+
+This could result in:
+
+- Automation bias.
+- Reduced independent critical thinking.
+- Cognitive offloading.
+- Over-reliance on AI-generated recommendations.
+- Reduced ability to identify incorrect AI decisions.
+- Poor trust calibration.
+- Delayed detection of logical errors.
+- Degradation of human decision-making capabilities.
+
+Investigate these problems through a rigorous quantitative experimental study.
+
+## 3. RESEARCH OBJECTIVES
+
+The paper must investigate the following:
+
+1. How does increasing AI autonomy affect human error-detection performance?
+2. Does greater AI autonomy increase automation bias?
+3. Does human cognitive engagement decrease when AI performs most of the decision-making?
+4. How does the presence of deliberately introduced AI errors affect human trust?
+5. Is there a measurable relationship between AI autonomy, response time, cognitive load, and error-detection accuracy?
+6. Can introducing controlled human verification mechanisms improve decision quality?
+7. Can a friction-by-design approach reduce excessive dependence on autonomous AI?
+
+Develop clear research questions (RQs), research objectives, and testable hypotheses (H1, H2, H3, etc.).
+
+## 4. DEEP LITERATURE REVIEW
+
+Conduct extensive academic literature research before drafting the paper.
+
+Prioritize:
+
+- IEEE Xplore.
+- ACM Digital Library.
+- SpringerLink.
+- ScienceDirect.
+- Elsevier journals.
+- Scopus-indexed publications.
+- Web of Science-indexed publications.
+- Google Scholar.
+- arXiv for recent preprints, clearly identified as non-peer-reviewed where applicable.
+
+Investigate these research areas:
+
+A. Automation Bias in Decision Support Systems.
+
+B. Cognitive Offloading and Human Cognitive Performance.
+
+C. Trust Calibration in Human-AI Interaction.
+
+D. Human-AI Teaming and Autonomous Agents.
+
+E. Algorithmic Decision-Making and Human Oversight.
+
+F. Explainability and Transparency in AI Systems.
+
+G. Human Supervisory Control and Appropriate Reliance.
+
+H. Generative AI versus Agentic AI and the changing nature of human delegation.
+
+I. Cognitive Load in AI-Assisted Workflows.
+
+For every important research finding:
+
+- Identify the original publication.
+- Provide the complete author list.
+- Provide the actual publication title.
+- Provide journal/conference name.
+- Include publication year.
+- Include DOI or a verified publisher URL.
+- Explain its methodology and findings.
+- Explain its relevance to our research.
+- Identify its limitations.
+
+Build a literature comparison table containing at least 20 relevant research papers, preferably from 2019–2026, while also including foundational older studies.
+
+Do not invent publications, DOIs, authors, statistics, or citations.
+
+If a reference cannot be verified, explicitly mark it as unverified and exclude it from the final reference list.
+
+Critically identify the research gap instead of simply claiming that the topic is unexplored.
+
+Also investigate whether "Algorithmic Reflexivity Reallocation" or "ALERT" is an established academic theory. If it is not established, do not falsely attribute it to existing researchers. Treat it as a proposed conceptual framework only if academically justified.
+
+## 5. RESEARCH METHODOLOGY
+
+Design a quantitative experimental study.
+
+Proposed application scenario: AI-assisted financial auditing.
+
+The experiment should compare different levels of AI autonomy.
+
+Independent variable:
+
+AI Autonomy Level.
+
+Condition 1: Low Autonomy
+
+- AI suggests corrections.
+- Human reviews each recommendation.
+- Human explicitly approves or rejects every correction.
+
+Condition 2: High Autonomy
+
+- AI automatically processes the audit sheet.
+- AI makes corrections and generates a final report.
+- Human primarily reviews the final output.
+
+Condition 3: Optional Intermediate Autonomy
+
+- AI performs routine operations.
+- Human approval is required for high-risk or uncertain decisions.
+
+Introduce controlled, deliberately embedded logical errors into AI recommendations or outputs.
+
+The errors should be realistic, measurable, and ethically disclosed to participants after the experiment.
+
+Dependent variables:
+
+1. Error Detection Rate.
+2. False Acceptance Rate.
+3. False Rejection Rate.
+4. Decision Accuracy.
+5. Response Time.
+6. Human Verification Frequency.
+7. Subjective Cognitive Load using NASA-TLX.
+8. Trust in AI recommendations.
+9. Appropriate Reliance on AI.
+
+Explain how each variable will be operationally measured.
+
+Develop:
+
+- Experimental design.
+- Participant selection criteria.
+- Sample size justification and power analysis.
+- Experimental procedure.
+- Control variables.
+- Data collection methodology.
+- Survey questions.
+- Evaluation metrics.
+- Statistical analysis methodology.
+- Ethical considerations.
+
+Important methodological requirements:
+
+Do not invent participant responses or claim that an experiment was conducted when it was not.
+
+Do not combine synthetic AI-generated observations with actual human observations as though they were equivalent experimental participants.
+
+If synthetic data is used, clearly separate it into simulation or exploratory analysis and never present it as real-world human evidence.
+
+If the sample size is small, explicitly discuss statistical power and limitations.
+
+## 6. EXPERIMENTAL SIMULATION AND IMPLEMENTATION
+
+Design a reproducible Python-based experimental framework.
+
+Recommended technologies:
+
+- Python.
+- Pandas.
+- NumPy.
+- SciPy.
+- Scikit-learn.
+- Matplotlib.
+- Seaborn.
+- Streamlit, if an experimental interface is needed.
+
+Develop a complete technical implementation plan.
+
+Include:
+
+1. Experimental task generation.
+2. AI recommendation generation or controlled recommendation datasets.
+3. AI autonomy conditions.
+4. Controlled error injection.
+5. Human response collection.
+6. Timestamp and interaction logging.
+7. Performance metric calculation.
+8. Statistical testing.
+9. Visualization.
+
+Provide executable Python code with comments.
+
+Separate:
+
+- Simulation code.
+- Real participant data collection.
+- Statistical analysis.
+- Visualization.
+
+Do not claim that simulated results demonstrate actual human cognitive degradation.
+
+## 7. STATISTICAL ANALYSIS
+
+Develop an appropriate statistical framework.
+
+Consider:
+
+- Descriptive statistics.
+- Mean and standard deviation.
+- Confidence intervals.
+- Independent or paired t-tests, depending on the experimental design.
+- Repeated-measures ANOVA, where appropriate.
+- Mixed-effects models, where appropriate.
+- Chi-square tests for categorical outcomes.
+- Effect sizes.
+- Correlation analysis.
+- Regression analysis.
+- Multiple-comparison corrections.
+
+Explain why each test is appropriate.
+
+Report:
+
+- Test statistic.
+- Degrees of freedom where applicable.
+- Exact p-value.
+- Effect size.
+- Confidence interval.
+- Interpretation.
+
+Never fabricate p-values, sample sizes, confidence intervals, or percentage improvements.
+
+If actual experimental data is unavailable, create a clearly labeled analysis template and explain which results must be filled in after experimentation.
+
+## 8. PROPOSED MITIGATION FRAMEWORK: FRICTION-BY-DESIGN
+
+Develop a novel, technically feasible framework to reduce excessive automation bias.
+
+Investigate the following possible mechanisms:
+
+1. Human approval checkpoints for high-risk AI decisions.
+2. Confidence-based intervention mechanisms.
+3. Mandatory verification of selected AI recommendations.
+4. Explainability for critical decisions.
+5. Uncertainty-aware human escalation.
+6. Periodic independent human decision tasks.
+7. Audit trails for autonomous actions.
+
+Propose an architecture illustrating how the framework works.
+
+Evaluate the proposed framework against a conventional high-autonomy workflow.
+
+Clearly distinguish between experimentally demonstrated improvements and theoretical design recommendations.
+
+## 9. COMPLETE RESEARCH PAPER STRUCTURE
+
+Prepare a complete IEEE-style manuscript with the following structure:
+
+1. Abstract.
+2. Index Terms.
+3. Introduction.
+4. Background and Motivation.
+5. Related Work.
+6. Research Gap.
+7. Research Questions and Hypotheses.
+8. Proposed Conceptual Framework.
+9. Research Methodology.
+10. Experimental Design.
+11. Implementation Details.
+12. Evaluation Metrics.
+13. Results.
+14. Statistical Analysis.
+15. Discussion.
+16. Proposed Friction-by-Design Framework.
+17. Threats to Validity.
+18. Limitations.
+19. Future Research Directions.
+20. Conclusion.
+21. References.
+
+Include appropriate mathematical formulations, algorithms, tables, diagrams, and figures.
+
+Use IEEE academic writing conventions, formal technical language, and consistent terminology.
+
+## 10. FIGURES AND TABLES
+
+Identify and generate the following:
+
+Figure 1: Overall research framework.
+
+Figure 2: Transition from generative AI assistance to autonomous agentic workflows.
+
+Figure 3: Experimental architecture.
+
+Figure 4: Comparison of low, intermediate, and high AI autonomy.
+
+Figure 5: Human-AI interaction and error-detection workflow.
+
+Figure 6: Proposed Friction-by-Design architecture.
+
+Figure 7: Error detection performance across autonomy conditions.
+
+Figure 8: Cognitive load comparison.
+
+Figure 9: Relationship between AI autonomy and trust calibration.
+
+Tables:
+
+- Literature comparison.
+- Research gap analysis.
+- Independent and dependent variables.
+- Experimental conditions.
+- Evaluation metrics.
+- Statistical results.
+- Comparison of existing approaches and proposed framework.
+
+Generate actual figures only from verified experimental or explicitly labeled simulated data.
+
+## 11. ACADEMIC QUALITY AND ORIGINALITY REQUIREMENTS
+
+The paper must satisfy the following:
+
+- Original synthesis and analysis rather than copied paragraphs.
+- Proper attribution of all external ideas.
+- Accurate IEEE citations and references.
+- No fabricated research findings.
+- No fabricated datasets.
+- No unsupported claims.
+- No invented theoretical frameworks presented as established facts.
+- No misleading statistical conclusions.
+- No citation padding.
+- No plagiarism.
+- No claims of novelty without comparison against prior work.
+- No unsupported claims of causal relationships.
+
+Write naturally and precisely, avoiding repetitive, generic AI-generated academic language.
+
+Do not attempt to manipulate AI-detection systems. Focus on genuine intellectual contribution, transparent methodology, and correct attribution.
+
+## 12. CRITICAL PEER-REVIEW SIMULATION
+
+After completing the manuscript, act as three independent reviewers for a reputable IEEE journal.
+
+Reviewer 1: Technical AI researcher.
+
+Reviewer 2: Human-computer interaction and cognitive psychology researcher.
+
+Reviewer 3: Statistical methodology and experimental design researcher.
+
+Each reviewer must evaluate:
+
+- Originality.
+- Research gap.
+- Technical contribution.
+- Methodological validity.
+- Statistical rigor.
+- Literature coverage.
+- Reproducibility.
+- Citation accuracy.
+- Limitations.
+- Overall academic contribution.
+
+Identify every major and minor weakness.
+
+Do not automatically approve the paper. Be critical.
+
+Provide a revision checklist and revise the manuscript based on valid reviewer feedback.
+
+## 13. EXECUTION INSTRUCTIONS
+
+Work in the following phases:
+
+PHASE 1: Research landscape and literature review.
+
+PHASE 2: Research gap validation and novelty assessment.
+
+PHASE 3: Research questions, hypotheses, and conceptual framework.
+
+PHASE 4: Experimental methodology and statistical design.
+
+PHASE 5: Python implementation and reproducibility.
+
+PHASE 6: Analysis of actual experimental data.
+
+PHASE 7: Complete IEEE manuscript drafting.
+
+PHASE 8: References and citation verification.
+
+PHASE 9: Independent peer review and revision.
+
+Do not skip phases.
+
+Do not generate a supposedly complete empirical research paper using invented results.
+
+If information is missing, ask me for it rather than making assumptions.
+
+The final goal is a technically sound, genuinely original, reproducible, and publication-ready research manuscript suitable for submission to an appropriate IEEE journal or conference.
+
+Begin with PHASE 1. Provide a detailed research landscape, verified literature review, research gap analysis, and an initial assessment of publication potential.
+
+## **2. My recommendations before using this prompt**
+
+There are a few important things I would change from the original research plan in your screenshots.
+
+| Original suggestion          | My recommendation                                                                                |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| 10–15 participants           | Calculate sample size using power analysis; 10–15 may be insufficient.                           |
+| Generate 100 synthetic users | Use only for supplementary simulation, not as human experimental evidence.                       |
+| Inject deliberate AI errors  | Good experimental approach, provided errors are controlled and participants are debriefed.       |
+| Use two autonomy levels      | Prefer three levels if resources permit.                                                         |
+| Claim cognitive degradation  | Measure cognitive performance; don't claim long-term degradation from a short experiment.        |
+| Use ANOVA                    | Choose the statistical test based on whether participants experience one or multiple conditions. |
+
+**One particularly important point:** Your proposed term "Algorithmic Reflexivity Reallocation" should be validated through literature research before treating it as a new theory. You don't want reviewers rejecting the paper because its theoretical foundation is incorrectly represented.
+
+## **3. Recommended research execution**
+
+## **Research development roadmap**
+
+1. **Literature research**
+
+   Start here
+
+   Find 25–40 relevant, verifiable academic papers and identify the genuine research gap.
+2. **Research design**
+
+   Define hypotheses, variables, experimental conditions and sample size.
+3. **Implementation**
+
+   Build the experimental interface and data-collection system using Python/Streamlit.
+4. **Data collection**
+
+   Conduct the actual experiment and collect participant responses.
+5. **Statistical analysis**
+
+   Run appropriate tests, generate graphs and interpret results.
+6. **Paper writing**
+
+   Draft all sections using verified research and your actual findings.
+7. **Final review**
+
+   Check references, reproducibility, methodology and IEEE formatting.
+
+## **4. One decision I need from you**
+
+Before we develop the actual research, I want to establish your publication target.
+
+**1. What is your target publication?**
+
+IEEE journal (preferably SCI/SCIE indexed)
+
+IEEE conference
+
+Scopus-indexed journal
+
+Any reputable peer-reviewed publication
+
+**2. What research approach can you realistically undertake?**
+
+Real participants + experiments
+
+Simulation-based research
+
+Hybrid: real participants + separate simulations
+
+Submit research preferences
+
+My recommendation is to prioritize a rigorous, reproducible study over producing a 15-page paper quickly. A smaller paper with genuine experimental evidence is much stronger than a long paper with invented statistics.
+[25/11, 1:41 am] rishabhojha880: Absolutely. You should instruct Gemini to generate the **complete Overleaf-compatible LaTeX source code**, not just a Word document or formatted text.
+
+Add the following section to the end of your existing master prompt:
+
+## 14. COMPLETE OVERLEAF / LATEX SOURCE CODE GENERATION
+
+A critical requirement is that the final research paper must be delivered in a fully compilable Overleaf-compatible LaTeX project.
+
+Do not provide only the manuscript in plain text or Markdown.
+
+Generate the complete source code using the official IEEEtran document class and appropriate IEEE formatting conventions.
+
+### A. LaTeX Requirements
+
+1. Use the IEEEtran document class.
+2. Follow the appropriate IEEE journal or conference template based on the selected publication target.
+3. Use properly formatted:
+   - Title and author information.
+   - Abstract and Index Terms.
+   - Numbered sections and subsections.
+   - Equations and mathematical expressions.
+   - Figures and captions.
+   - Tables and table captions.
+   - Algorithms and pseudocode.
+   - IEEE citations and bibliography.
+4. Use consistent font sizes, spacing, margins, column widths, and section numbering.
+5. Ensure figures and tables fit within single-column or double-column layouts.
+6. Prevent equations, tables, and figures from overflowing page boundaries.
+7. Use appropriate packages for mathematics, algorithms, graphics, tables, and citations.
+8. Use BibTeX with a separate references.bib file.
+9. Ensure every citation in the manuscript has a corresponding verified bibliography entry.
+10. Do not manually manipulate margins or spacing to imitate an IEEE template.
+
+### B. Complete Project File Structure
+
+Provide all required files in a structured format:
+
+research_paper/
+
+- main.tex
+- references.bib
+- figures/
+  - research_framework.png
+  - experimental_architecture.png
+  - proposed_framework.png
+  - performance_comparison.png
+- tables/
+  - literature_review\.tex
+  - experimental_results.tex
+- README.md
+
+The file names above are illustrative. Generate only files that are actually required and ensure every referenced file exists.
+
+### C. Compilation Requirements
+
+The project must:
+
+- Compile successfully on Overleaf.
+- Use pdfLaTeX unless another compiler is genuinely necessary.
+- Avoid undefined references.
+- Avoid missing citations.
+- Avoid missing image files.
+- Avoid package conflicts.
+- Avoid LaTeX syntax errors.
+- Avoid overfull and underfull boxes where reasonably preventable.
+- Include all necessary bibliography and figure dependencies.
+
+Use the appropriate IEEE bibliography style, such as IEEEtran.bst, when compatible with the selected template.
+
+### D. Final Deliverables
+
+Provide:
+
+1. Complete main.tex source code.
+2. Complete references.bib file.
+3. All figure-generation scripts and generated figure files.
+4. All supporting LaTeX table files.
+5. A README explaining how to upload and compile the project on Overleaf.
+6. A final compiled PDF for visual inspection, if compilation is available.
+
+### E. Final Quality Assurance
+
+Before delivering the project:
+
+- Check the LaTeX source for syntax errors.
+- Check all citations and references.
+- Check figure and table numbering.
+- Check equation numbering.
+- Check cross-references.
+- Check title, abstract, keywords, and author formatting.
+- Check that the manuscript follows the selected IEEE publication template.
+- Verify that the final PDF contains all sections and no missing content.
+
+If you cannot compile the project yourself, explicitly state that it has not been compilation-tested. Never claim successful compilation without verification.
+
+The final deliverable must be a complete, editable, reproducible Overleaf project that I can upload directly and continue editing.
+
+## **My additional suggestion**
+
+Ask Gemini to generate the project as a ZIP containing all files rather than giving you one enormous LaTeX code block.
+
+Your ideal final deliverables should be:
+
+**main.tex**
+
+Required
+
+Complete IEEE-formatted research manuscript
+
+**references.bib**
+
+All verified academic references
+
+**figures/**
+
+Research diagrams, graphs and architecture illustrations
+
+**tables/**
+
+Literature review and experimental results tables
+
+**research_paper.pdf**
+
+Compiled and visually checked final manuscript
+
+**Important:** Tell Gemini not to invent experimental results just to complete the paper. Leave clearly marked placeholders for results until your actual experiment is conducted. This will protect the credibility of your research.
